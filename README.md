@@ -74,6 +74,14 @@ This application implements the complete user checkout funnel inspired by modern
 
 ---
 
+## Video Demo
+
+
+https://github.com/user-attachments/assets/49dfb76d-6771-4647-b109-7064809e7d34
+
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer | Dependency | Description |
